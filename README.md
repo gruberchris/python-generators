@@ -1,3 +1,3 @@
 # Python Generators
 
-Demo code for showing how to use Python generators.
+Demo code showing how to use Python generators.
